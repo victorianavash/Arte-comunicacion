@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://victorianavash.github.io/arte-comunicacion",
+    "feed_url": "https://victorianavash.github.io/arte-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Victoria Navas"
+    },
+    "items": [
+    ]
+}
