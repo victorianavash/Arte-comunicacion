@@ -3,10 +3,35 @@
     <title>Arte y comunicación</title>
     <link href="https://victorianavash.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://victorianavash.github.io/Arte-comunicacion" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2026-02-26T21:22:43-05:00</updated>
     <author>
         <name>Victoria Navas</name>
     </author>
     <id>https://victorianavash.github.io/Arte-comunicacion</id>
 
+    <entry>
+        <title>Composición visual en Inscape</title>
+        <author>
+            <name>Victoria Navas</name>
+        </author>
+        <link href="https://victorianavash.github.io/Arte-comunicacion/composicion-visual-en-inscape.html"/>
+        <id>https://victorianavash.github.io/Arte-comunicacion/composicion-visual-en-inscape.html</id>
+        <media:content url="https://victorianavash.github.io/Arte-comunicacion/media/posts/3/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-2.jpeg" medium="image" />
+
+        <updated>2026-02-26T21:13:59-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://victorianavash.github.io/Arte-comunicacion/media/posts/3/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-2.jpeg" alt="" />
+                    Para mi composición visual me imspiré en el artista Carlos Rojas que ha construido paisajes a partir de lineas horizontales. Como no quería que mi trabajo fuera igual al de él, me puse a pensar en como está compuesto un paisaje. Ahí me di cuenta&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://victorianavash.github.io/Arte-comunicacion/media/posts/3/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-2.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Para mi composición visual me imspiré en el artista Carlos Rojas que ha construido paisajes a partir de lineas horizontales. Como no quería que mi trabajo fuera igual al de él, me puse a pensar en como está compuesto un paisaje. Ahí me di cuenta que las texturas y los colores son muy importantes para que luego el cuerpo sienta la magia de estar ahí. Por eso mismo, me imaginé una vista de un campo lleno de árboles en un atardecer. Uno donde puedes diferenciar las texturas cercanas, pero cuando estan lejos se pierden con la luz y la sobra. </p>
+<p>En pocas palabras me pareció intresante meter elementos que componen un paisaje en una tecnica geométrica como la de Carlos Rojas, haciendo que la perspectiva del espectador este centrada y pueda sentir que algo pasa en la imagen.</p>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://victorianavash.github.io/Arte-comunicacion/media/posts/3/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a.jpeg" alt="" width="1121" height="910" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://victorianavash.github.io/Arte-comunicacion/media/posts/3/responsive/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-xs.jpeg 640w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/3/responsive/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-sm.jpeg 768w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/3/responsive/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-md.jpeg 1024w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/3/responsive/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-lg.jpeg 1366w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/3/responsive/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-xl.jpeg 1600w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/3/responsive/075E2485-D676-4476-83CF-EFC7B65A33EE_1_201_a-2xl.jpeg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
