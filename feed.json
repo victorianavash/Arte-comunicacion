@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://victorianavash.github.io/Arte-comunicacion/comic.html",
+            "url": "https://victorianavash.github.io/Arte-comunicacion/comic.html",
+            "title": "Cómic",
+            "summary": "Este cómic nació de la intención de crear una pieza inspirada en el estilo del artista colombiano Kevin Simón Mancera. El uso de la línea, el color, la tipografía y varios de los elementos visuales buscan hacer referencia a su trabajo. Aunque la obra fue&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://victorianavash.github.io/Arte-comunicacion/media/posts/4/KEVIN-COMIC-jpg-3.jpg\" alt=\"\" width=\"2008\" height=\"2033\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://victorianavash.github.io/Arte-comunicacion/media/posts/4/responsive/KEVIN-COMIC-jpg-3-xs.jpg 640w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/4/responsive/KEVIN-COMIC-jpg-3-sm.jpg 768w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/4/responsive/KEVIN-COMIC-jpg-3-md.jpg 1024w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/4/responsive/KEVIN-COMIC-jpg-3-lg.jpg 1366w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/4/responsive/KEVIN-COMIC-jpg-3-xl.jpg 1600w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/4/responsive/KEVIN-COMIC-jpg-3-2xl.jpg 1920w\"></figure>\n<p>Este cómic nació de la intención de crear una pieza inspirada en el estilo del artista colombiano Kevin Simón Mancera. El uso de la línea, el color, la tipografía y varios de los elementos visuales buscan hacer referencia a su trabajo. Aunque la obra fue realizada de manera digital y no permitió replicar muchas de sus estrategias de dibujo tradicionales, el estilo caricaturesco intenta conservar ese lenguaje burlón y satírico característico de su obra, que transforma una escena aparentemente cotidiana en algo irónico o absurdamente irrelevante.</p>",
+            "image": "https://victorianavash.github.io/Arte-comunicacion/media/posts/4/KEVIN-COMIC-jpg.jpg",
+            "author": {
+                "name": "Victoria Navas"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-13T14:36:44-05:00",
+            "date_modified": "2026-03-13T14:36:44-05:00"
+        },
+        {
             "id": "https://victorianavash.github.io/Arte-comunicacion/composicion-visual-en-inscape.html",
             "url": "https://victorianavash.github.io/Arte-comunicacion/composicion-visual-en-inscape.html",
             "title": "Composición visual en Inscape",
