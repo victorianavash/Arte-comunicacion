@@ -3,12 +3,33 @@
     <title>Arte y comunicación</title>
     <link href="https://victorianavash.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://victorianavash.github.io/Arte-comunicacion" />
-    <updated>2026-03-13T14:36:44-05:00</updated>
+    <updated>2026-03-27T19:10:03-05:00</updated>
     <author>
         <name>Victoria Navas</name>
     </author>
     <id>https://victorianavash.github.io/Arte-comunicacion</id>
 
+    <entry>
+        <title>Audio experimental</title>
+        <author>
+            <name>Victoria Navas</name>
+        </author>
+        <link href="https://victorianavash.github.io/Arte-comunicacion/audio-experimental-2.html"/>
+        <id>https://victorianavash.github.io/Arte-comunicacion/audio-experimental-2.html</id>
+
+        <updated>2026-03-27T19:10:03-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    En este audio traté de usar efectos, elementos del tutorial, auidos de cuando yo era chiquita y canciones, aunque siendo honesta me parecio dificil hacer que sonara bien y que se notara todo lo que hice de edición.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>En este audio traté de usar efectos, elementos del tutorial, auidos de cuando yo era chiquita y canciones, aunque siendo honesta me parecio dificil hacer que sonara bien y que se notara todo lo que hice de edición.</p>
+<p><audio loading="lazy" controls="controls" src="https://victorianavash.github.io/Arte-comunicacion/media/posts/6/0327-4.MP3"></audio></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cómic</title>
         <author>
