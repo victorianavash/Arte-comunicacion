@@ -3,12 +3,34 @@
     <title>Arte y comunicación</title>
     <link href="https://victorianavash.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://victorianavash.github.io/Arte-comunicacion" />
-    <updated>2026-03-27T19:10:03-05:00</updated>
+    <updated>2026-04-23T19:31:06-05:00</updated>
     <author>
         <name>Victoria Navas</name>
     </author>
     <id>https://victorianavash.github.io/Arte-comunicacion</id>
 
+    <entry>
+        <title>Iniciativa libre 1</title>
+        <author>
+            <name>Victoria Navas</name>
+        </author>
+        <link href="https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-1.html"/>
+        <id>https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-1.html</id>
+
+        <updated>2026-04-23T19:28:41-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Después de haber aprendido a usar distintas herramientas de diseño durante la clase, aproveché esa oportunidad de hacer un hoodie que me habia pedido mi hermana hace mucho. Quise ponerle un estilo simple, pero que muestre ese humor con el que mi hermana cuenta sus&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Después de haber aprendido a usar distintas herramientas de diseño durante la clase, aproveché esa oportunidad de hacer un hoodie que me habia pedido mi hermana hace mucho. Quise ponerle un estilo simple, pero que muestre ese humor con el que mi hermana cuenta sus anecdotas (como cuando le dijo a muchas personas que jugaba polo y que era profesional, pero en verdad nunca lo había intentado).</p>
+<figure class="post__image"><img loading="lazy"  src="https://victorianavash.github.io/Arte-comunicacion/media/posts/7/1.jpg" alt="" width="2000" height="1634" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/1-xs.jpg 640w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/1-sm.jpg 768w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/1-md.jpg 1024w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/1-lg.jpg 1366w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/1-xl.jpg 1600w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/1-2xl.jpg 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://victorianavash.github.io/Arte-comunicacion/media/posts/7/2.jpg" alt="" width="2000" height="1634" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/2-xs.jpg 640w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/2-sm.jpg 768w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/2-md.jpg 1024w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/2-lg.jpg 1366w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/2-xl.jpg 1600w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/7/responsive/2-2xl.jpg 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Audio experimental</title>
         <author>
