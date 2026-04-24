@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-3.html",
+            "url": "https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-3.html",
+            "title": "Iniciativa libre 3",
+            "summary": "Reseña del libro \"The Creative Act: A Way of Being\" The Creative Act: A Way of Being es un libro que nos hace pensar en la creatividad. Nos muestra que no es solo algo que tienen los artistas, sino una manera importante de vivir. En&hellip;",
+            "content_html": "<p class=\"align-center\"><strong>Reseña del libro \"The Creative Act: A Way of Being<em>\"</em></strong></p>\n<p><em>The Creative Act: A Way of Being</em> es un libro que nos hace pensar en la creatividad. Nos muestra que no es solo algo que tienen los artistas, sino una manera importante de vivir. En el libro, Rick Rubin sugiere que todos los seres humanos somos en esencia creadores. Él dice que la creatividad no solo se trata de hacer obras, sino que también se muestra en cómo vemos, sentimos y nos conectamos con el mundo. El texto se organiza en partes cortas que actúan casi como reflexiones. Rubin habla sobre temas como la motivación, la intuición, el ego y la relación con el entorno. El autor propone una forma de pensar en lugar de dar fórmulas o técnicas específicas: hay que estar dispuestos, atentos y listos para escuchar. Según su perspectiva, el acto de crear comienza cuando logramos callar el ruido que viene de afuera y de adentro, lo que permite que las ideas fluyan de forma natural. Una de las cosas más importantes del libro es que se puede entender fácilmente. Las ideas de Rubin son importantes para todos, ya sea que el lector sea músico, escritor o simplemente alguien que busca entender la vida. Su forma de escribir es simple y casi poética, lo que hace que sea fácil de leer y pensar en lo que dice. Es perfecto para aquellos que quieren volver a sentir sus emociones. En resumen,<em>The Creative Act: A Way of Being </em>no es un libro de instrucciones común, sino una guía espiritual que habla sobre la creatividad. Invita a vivir de manera más consciente y verdadera, recordándonos que crear no solo significa hacer, sino también ser.</p>",
+            "author": {
+                "name": "Victoria Navas"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-23T19:50:38-05:00",
+            "date_modified": "2026-04-23T19:50:38-05:00"
+        },
+        {
             "id": "https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-2.html",
             "url": "https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-2.html",
             "title": "Iniciativa libre 2",
