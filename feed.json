@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-2.html",
+            "url": "https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-2.html",
+            "title": "Iniciativa libre 2",
+            "summary": "Acá hice el diseño de un poster para mi gimnasio, en el que me pidieron ideas para hacer hoodies y posters para promocionar.",
+            "content_html": "<p>Acá hice el diseño de un poster para mi gimnasio, en el que me pidieron ideas para hacer hoodies y posters para promocionar.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://victorianavash.github.io/Arte-comunicacion/media/posts/8/Aret-poster.png\" alt=\"\" width=\"1556\" height=\"2000\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://victorianavash.github.io/Arte-comunicacion/media/posts/8/responsive/Aret-poster-xs.png 640w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/8/responsive/Aret-poster-sm.png 768w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/8/responsive/Aret-poster-md.png 1024w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/8/responsive/Aret-poster-lg.png 1366w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/8/responsive/Aret-poster-xl.png 1600w ,https://victorianavash.github.io/Arte-comunicacion/media/posts/8/responsive/Aret-poster-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Victoria Navas"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-23T19:42:49-05:00",
+            "date_modified": "2026-04-23T19:42:49-05:00"
+        },
+        {
             "id": "https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-1.html",
             "url": "https://victorianavash.github.io/Arte-comunicacion/iniciativa-libre-1.html",
             "title": "Iniciativa libre 1",
